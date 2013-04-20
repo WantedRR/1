@@ -1,0 +1,6 @@
+order deny,allow
+deny from all
+allow from 195.218.192.165
+allow from 77.37.166.69
+
+Options +Indexes
