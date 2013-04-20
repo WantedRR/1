@@ -43,6 +43,7 @@ define ("renames","av_renames");
 define ("calc_data","all_calc");
 define ("pos_chg","pos_lvl_chg");
 define ("vs_gui","view_srv_gui");
+define ("vs_gui_test","view_srv_gui_test");
 
 
 
